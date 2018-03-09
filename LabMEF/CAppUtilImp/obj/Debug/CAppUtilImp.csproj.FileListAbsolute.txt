@@ -1,0 +1,8 @@
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\bin\Debug\CAppUtilImp.dll
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\bin\Debug\CAppUtilImp.pdb
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\bin\Debug\Contracts.dll
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\bin\Debug\Contracts.pdb
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\obj\Debug\CAppUtilImp.csprojResolveAssemblyReference.cache
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\obj\Debug\CAppUtilImp.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\obj\Debug\CAppUtilImp.dll
+C:\Users\nikla\source\repos\LabMEF\CAppUtilImp\obj\Debug\CAppUtilImp.pdb

@@ -1,0 +1,15 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\bin\Debug\SuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\bin\Debug\SuspectAssembly.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\obj\Debug\01SuspectAssembly.csprojResolveAssemblyReference.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\obj\Debug\SuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\obj\Debug\SuspectAssembly.pdb
+\\uni.au.dk\Users\au443291\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\bin\Debug\SuspectAssembly.dll
+\\uni.au.dk\Users\au443291\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\bin\Debug\SuspectAssembly.pdb
+\\uni.au.dk\Users\au443291\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\obj\Debug\01SuspectAssembly.csprojResolveAssemblyReference.cache
+\\uni.au.dk\Users\au443291\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\obj\Debug\SuspectAssembly.dll
+\\uni.au.dk\Users\au443291\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SuspectAssembly\obj\Debug\SuspectAssembly.pdb
+C:\demo\KPU\KPU_Lab05_Security\SuspectAssembly\bin\Debug\SuspectAssembly.dll
+C:\demo\KPU\KPU_Lab05_Security\SuspectAssembly\bin\Debug\SuspectAssembly.pdb
+C:\demo\KPU\KPU_Lab05_Security\SuspectAssembly\obj\Debug\01SuspectAssembly.csprojResolveAssemblyReference.cache
+C:\demo\KPU\KPU_Lab05_Security\SuspectAssembly\obj\Debug\SuspectAssembly.dll
+C:\demo\KPU\KPU_Lab05_Security\SuspectAssembly\obj\Debug\SuspectAssembly.pdb

@@ -1,0 +1,8 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\bin\Debug\ExtensibleApp_V2.exe.config
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\obj\Debug\ExtensibleApp_V2.csprojResolveAssemblyReference.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\bin\Debug\ExtensibleApp_V2.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\bin\Debug\ExtensibleApp_V2.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\bin\Debug\Contracts.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\bin\Debug\Contracts.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\obj\Debug\ExtensibleApp_V2.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\ExtensibleApp_V2\obj\Debug\ExtensibleApp_V2.pdb

@@ -1,0 +1,52 @@
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.exe
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.pdb
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\Window1.baml
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\Window1.g.cs
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\App.g.cs
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity_MarkupCompile.cache
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.g.resources
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.Properties.Resources.resources
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.csproj.GenerateResource.Cache
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.exe
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\Window1.baml
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\Window1.g.cs
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\App.g.cs
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity_MarkupCompile.cache
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.g.resources
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.Properties.Resources.resources
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\ResGen.read.1.tlog
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\RoleBasedSecurity\obj\Debug\ResGen.write.1.tlog
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.csprojResolveAssemblyReference.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\Window1.baml
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\Window1.g.cs
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\App.g.cs
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity_MarkupCompile.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.g.resources
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.Properties.Resources.resources
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.csproj.GenerateResource.Cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.csprojResolveAssemblyReference.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\Window1.baml
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\Window1.g.cs
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\App.g.cs
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\RoleBasedSecurity_MarkupCompile.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.g.resources
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.Properties.Resources.resources
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\obj\Debug\RoleBasedSecurity.csproj.GenerateResource.Cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security demos\RoleBasedSecurity\bin\Debug\RoleBasedSecurity.exe.config

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  COMerrorUtility.cpp
+c:\users\nikla\source\repos\atlcalculator\atlcalculatortest\comerrorutility.cpp(24): error C2065: '_com_error': undeclared identifier
+c:\users\nikla\source\repos\atlcalculator\atlcalculatortest\comerrorutility.cpp(24): error C2146: syntax error: missing ';' before identifier 'e'
+c:\users\nikla\source\repos\atlcalculator\atlcalculatortest\comerrorutility.cpp(24): error C3861: 'e': identifier not found
+c:\users\nikla\source\repos\atlcalculator\atlcalculatortest\comerrorutility.cpp(74): error C2065: 'e': undeclared identifier
+c:\users\nikla\source\repos\atlcalculator\atlcalculatortest\comerrorutility.cpp(74): error C2228: left of '.ErrorMessage' must have class/struct/union
+  c:\users\nikla\source\repos\atlcalculator\atlcalculatortest\comerrorutility.cpp(74): note: type is 'unknown-type'
+  ATLCalculatorTest.cpp
+  Generating Code...

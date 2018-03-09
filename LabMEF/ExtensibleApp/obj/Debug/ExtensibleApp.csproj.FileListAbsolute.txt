@@ -1,0 +1,9 @@
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\bin\Debug\ExtensibleApp.exe.config
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\bin\Debug\ExtensibleApp.exe
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\bin\Debug\ExtensibleApp.pdb
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\bin\Debug\Contracts.dll
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\bin\Debug\Contracts.pdb
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\obj\Debug\ExtensibleApp.csprojResolveAssemblyReference.cache
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\obj\Debug\ExtensibleApp.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\obj\Debug\ExtensibleApp.exe
+C:\Users\nikla\source\repos\LabMEF\ExtensibleApp\obj\Debug\ExtensibleApp.pdb

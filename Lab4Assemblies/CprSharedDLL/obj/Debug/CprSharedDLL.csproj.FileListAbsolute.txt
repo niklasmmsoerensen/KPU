@@ -1,0 +1,6 @@
+C:\Users\nikla\source\repos\Lab4Assemblies\CprSharedDLL\bin\Debug\CprSharedDLL.dll
+C:\Users\nikla\source\repos\Lab4Assemblies\CprSharedDLL\bin\Debug\CprSharedDLL.pdb
+C:\Users\nikla\source\repos\Lab4Assemblies\CprSharedDLL\obj\Debug\CprSharedDLL.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\Lab4Assemblies\CprSharedDLL\obj\Debug\CprSharedDLL.dll
+C:\Users\nikla\source\repos\Lab4Assemblies\CprSharedDLL\obj\Debug\CprSharedDLL.pdb
+C:\Users\nikla\source\repos\Lab4Assemblies\CprSharedDLL\obj\Debug\CprSharedDLL.csprojResolveAssemblyReference.cache

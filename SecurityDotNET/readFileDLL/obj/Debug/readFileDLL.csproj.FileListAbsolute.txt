@@ -1,0 +1,11 @@
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\bin\Debug\readFileDLL.dll
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\bin\Debug\readFileDLL.pdb
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\bin\Debug\System.Composition.Convention.dll
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\bin\Debug\System.Composition.Hosting.dll
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\bin\Debug\System.Composition.Runtime.dll
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\bin\Debug\System.Composition.TypedParts.dll
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\obj\Debug\readFileDLL.csprojResolveAssemblyReference.cache
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\obj\Debug\readFileDLL.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\obj\Debug\readFileDLL.dll
+C:\Users\nikla\source\repos\SecurityDotNET\readFileDLL\obj\Debug\readFileDLL.pdb

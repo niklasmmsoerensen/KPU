@@ -1,0 +1,17 @@
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\bin\Debug\CprCheckWPFtest.exe.config
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\bin\Debug\CprCheckWPFtest.exe
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\bin\Debug\CprCheckWPFtest.pdb
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\bin\Debug\CprDLL.dll
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\bin\Debug\CprDLL.pdb
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest.csprojResolveAssemblyReference.cache
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\MainWindow.g.cs
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\App.g.cs
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest_MarkupCompile.cache
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest_MarkupCompile.lref
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\MainWindow.baml
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest.g.resources
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest.Properties.Resources.resources
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest.csproj.GenerateResource.Cache
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest.exe
+C:\Users\nikla\source\repos\Lab4Assemblies\CprCheckWPFtest\obj\Debug\CprCheckWPFtest.pdb

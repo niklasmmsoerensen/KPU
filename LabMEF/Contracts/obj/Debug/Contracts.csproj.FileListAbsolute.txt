@@ -1,0 +1,6 @@
+C:\Users\nikla\source\repos\LabMEF\Contracts\bin\Debug\Contracts.dll
+C:\Users\nikla\source\repos\LabMEF\Contracts\bin\Debug\Contracts.pdb
+C:\Users\nikla\source\repos\LabMEF\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\nikla\source\repos\LabMEF\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\LabMEF\Contracts\obj\Debug\Contracts.dll
+C:\Users\nikla\source\repos\LabMEF\Contracts\obj\Debug\Contracts.pdb

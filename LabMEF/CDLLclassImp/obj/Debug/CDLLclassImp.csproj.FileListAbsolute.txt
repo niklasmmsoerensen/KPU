@@ -1,0 +1,7 @@
+C:\Users\nikla\source\repos\LabMEF\CDLLclassImp\bin\Debug\CDLLclassImp.dll
+C:\Users\nikla\source\repos\LabMEF\CDLLclassImp\bin\Debug\CDLLclassImp.pdb
+C:\Users\nikla\source\repos\LabMEF\CDLLclassImp\bin\Debug\Contracts.dll
+C:\Users\nikla\source\repos\LabMEF\CDLLclassImp\bin\Debug\Contracts.pdb
+C:\Users\nikla\source\repos\LabMEF\CDLLclassImp\obj\Debug\CDLLclassImp.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\LabMEF\CDLLclassImp\obj\Debug\CDLLclassImp.dll
+C:\Users\nikla\source\repos\LabMEF\CDLLclassImp\obj\Debug\CDLLclassImp.pdb

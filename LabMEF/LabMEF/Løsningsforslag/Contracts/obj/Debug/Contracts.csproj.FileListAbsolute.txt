@@ -1,0 +1,4 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\Contracts\bin\Debug\Contracts.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\Contracts\bin\Debug\Contracts.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\Contracts\obj\Debug\Contracts.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\Contracts\obj\Debug\Contracts.pdb

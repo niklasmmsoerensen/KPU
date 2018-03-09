@@ -1,0 +1,9 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\bin\Debug\CautiousApp.exe.config
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\bin\Debug\ImportantFile.txt
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\bin\Debug\CautiousApp.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\bin\Debug\CautiousApp.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\bin\Debug\SuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\bin\Debug\SuspectAssembly.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\obj\Debug\CautiousApp.csprojResolveAssemblyReference.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\obj\Debug\CautiousApp.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\CautiousApp\obj\Debug\CautiousApp.pdb

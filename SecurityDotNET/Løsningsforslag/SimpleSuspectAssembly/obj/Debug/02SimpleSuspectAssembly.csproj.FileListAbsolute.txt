@@ -1,0 +1,12 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SimpleSuspectAssembly\bin\Debug\SimpleSuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SimpleSuspectAssembly\bin\Debug\SimpleSuspectAssembly.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SimpleSuspectAssembly\obj\Debug\SimpleSuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SimpleSuspectAssembly\obj\Debug\SimpleSuspectAssembly.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SimpleSuspectAssembly\bin\Debug\SimpleSuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SimpleSuspectAssembly\bin\Debug\SimpleSuspectAssembly.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SimpleSuspectAssembly\obj\Debug\SimpleSuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab05_Security\SimpleSuspectAssembly\obj\Debug\SimpleSuspectAssembly.pdb
+C:\demo\KPU\KPU_Lab05_Security\SimpleSuspectAssembly\bin\Debug\SimpleSuspectAssembly.dll
+C:\demo\KPU\KPU_Lab05_Security\SimpleSuspectAssembly\bin\Debug\SimpleSuspectAssembly.pdb
+C:\demo\KPU\KPU_Lab05_Security\SimpleSuspectAssembly\obj\Debug\SimpleSuspectAssembly.dll
+C:\demo\KPU\KPU_Lab05_Security\SimpleSuspectAssembly\obj\Debug\SimpleSuspectAssembly.pdb

@@ -1,0 +1,7 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\PlugInn1\bin\Debug\PlugInn1.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\PlugInn1\bin\Debug\PlugInn1.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\PlugInn1\bin\Debug\Contracts.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\PlugInn1\bin\Debug\Contracts.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\PlugInn1\obj\Debug\PlugInn1.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\PlugInn1\obj\Debug\PlugInn1.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_MEF\PlugInn1\obj\Debug\PlugInn1.csprojResolveAssemblyReference.cache

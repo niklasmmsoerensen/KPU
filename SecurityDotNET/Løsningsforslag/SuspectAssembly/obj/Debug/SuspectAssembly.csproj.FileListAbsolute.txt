@@ -1,0 +1,5 @@
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SuspectAssembly\bin\Debug\SuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SuspectAssembly\bin\Debug\SuspectAssembly.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SuspectAssembly\obj\Debug\SuspectAssembly.dll
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SuspectAssembly\obj\Debug\SuspectAssembly.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Solutions\KPU_Lab_Security\SuspectAssembly\obj\Debug\SuspectAssembly.csprojResolveAssemblyReference.cache
