@@ -1,0 +1,13 @@
+﻿<Window x:Class="MyCompositeApp.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        Title="{Binding Title}" Height="350" Width="525">
+    <Grid>
+        <ContentControl prism:RegionManager.RegionName="MenuRegion" Width="89" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <ContentControl prism:RegionManager.RegionName="StatusRegion" HorizontalAlignment="Center" Width="318" Height="100" VerticalAlignment="Bottom" Margin="99,0,100,0" />
+        <ContentControl prism:RegionManager.RegionName="CenterRegion" HorizontalAlignment="Center" Width="319" Height="214" VerticalAlignment="Top" Margin="99,0" />
+        <ContentControl prism:RegionManager.RegionName="LogRegion" Width="100" HorizontalAlignment="Right" />
+    </Grid>
+</Window>
