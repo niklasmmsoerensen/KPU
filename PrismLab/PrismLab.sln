@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCompositeApp", "MyCompositeApp\MyCompositeApp.csproj", "{07FDEAEB-CED9-4B1A-B72E-EE77485642AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuModule", "MenuModule\MenuModule.csproj", "{3BBDCB10-089A-47A1-A6A5-40B4C21FDEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FDEAEB-CED9-4B1A-B72E-EE77485642AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FDEAEB-CED9-4B1A-B72E-EE77485642AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FDEAEB-CED9-4B1A-B72E-EE77485642AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FDEAEB-CED9-4B1A-B72E-EE77485642AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBDCB10-089A-47A1-A6A5-40B4C21FDEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBDCB10-089A-47A1-A6A5-40B4C21FDEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBDCB10-089A-47A1-A6A5-40B4C21FDEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBDCB10-089A-47A1-A6A5-40B4C21FDEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B1C7DE3-C4C2-4DED-A8F1-B78462715A59}
+	EndGlobalSection
+EndGlobal
