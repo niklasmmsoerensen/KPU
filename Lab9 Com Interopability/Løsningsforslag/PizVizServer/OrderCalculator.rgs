@@ -1,0 +1,26 @@
+HKCR
+{
+	AU.ASE.KPU.OrderCalculator.1 = s 'OrderCalculator Class'
+	{
+		CLSID = s '{A0D326F6-F261-453B-BDE0-49A2DB699ED4}'
+	}
+	AU.ASE.KPU.OrderCalculator = s 'OrderCalculator Class'
+	{		
+		CurVer = s 'AU.ASE.KPU.OrderCalculator.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {A0D326F6-F261-453B-BDE0-49A2DB699ED4} = s 'OrderCalculator Class'
+		{
+			ProgID = s 'AU.ASE.KPU.OrderCalculator.1'
+			VersionIndependentProgID = s 'AU.ASE.KPU.OrderCalculator'
+			ForceRemove Programmable
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			TypeLib = s '{2EFC1774-680C-4DCB-83DA-A58C5BF80766}'
+			Version = s '1.0'
+		}
+	}
+}

@@ -1,0 +1,52 @@
+// PizVizServer.idl : IDL source for PizVizServer
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (PizVizServer.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(DF1746A2-8A6A-4B7B-B129-2463AF52DD43),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface IPizzaManager : IDispatch{
+	[id(1)] HRESULT GetName([in] SHORT pizzaNo, [out, retval] BSTR* pizzaName);
+};
+[
+	object,
+	uuid(FDFABCE0-C029-4413-97CB-BB8DDAA34AD4),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface IOrderCalculator : IDispatch{
+	[id(1)] HRESULT CalcOrder([in] SAFEARRAY(short)* count, SAFEARRAY(short)* pizzaNo, [out, retval] CY* total);
+};
+[
+	uuid(2EFC1774-680C-4DCB-83DA-A58C5BF80766),
+	version(1.0),
+]
+library PizVizServerLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(BADBD64C-88C5-40AE-98C4-CE7B5C385BF7)		
+	]
+	coclass PizzaManager
+	{
+		[default] interface IPizzaManager;
+	};
+	[
+		uuid(A0D326F6-F261-453B-BDE0-49A2DB699ED4)		
+	]
+	coclass OrderCalculator
+	{
+		[default] interface IOrderCalculator;
+	};
+};
+

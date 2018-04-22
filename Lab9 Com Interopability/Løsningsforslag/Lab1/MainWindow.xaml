@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lab1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title=".Net Calculator Client" Height="350" Width="600" FontSize="14">
+    <Grid>
+        <Label Height="28" Margin="12,18,0,0" Name="label1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120">Arg1</Label>
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="12,52,0,0" Name="tbxArg1" VerticalAlignment="Top" Width="120" />
+        <TextBox Margin="264,52,0,0" Name="tbxArg2" Height="28" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" />
+        <Button Margin="0,90,53,0" Name="btnCalculate" VerticalAlignment="Top" HorizontalAlignment="Right" Width="76" Click="btnCalculate_Click">Calculate</Button>
+        <ComboBox Height="28" Margin="138,52,0,0" Name="cbxOperation" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120">
+            <ComboBoxItem>Add</ComboBoxItem>
+            <ComboBoxItem>Sub</ComboBoxItem>
+            <ComboBoxItem>Mul</ComboBoxItem>
+            <ComboBoxItem>Div</ComboBoxItem>
+        </ComboBox>
+        <Label Height="28" Margin="273,18,177,0" Name="label2" VerticalAlignment="Top">Arg2</Label>
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,18,35,0" Name="label3" VerticalAlignment="Top" Width="120">Result</Label>
+        <Label Height="28" HorizontalAlignment="Left" Margin="147,18,0,0" Name="label4" VerticalAlignment="Top" Width="111">Operation</Label>
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="419,52,0,0" Name="tbxResult" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="138,90,0,0" Name="tbxOffset" VerticalAlignment="Top" Width="120" TextChanged="tbxOffset_TextChanged" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,90,0,0" Name="label5" VerticalAlignment="Top" Width="120" HorizontalContentAlignment="Right">Offset</Label>
+        <Label Height="28" Margin="390,55,0,0" Name="label6" VerticalAlignment="Top" HorizontalAlignment="Left" Width="23" HorizontalContentAlignment="Center">=</Label>
+        <TextBlock Height="21" Margin="12,0,12,27" Name="textBlock1" VerticalAlignment="Bottom" Text="This application requires KPU lab3 to be installet on this computer." />
+    </Grid>
+</Window>

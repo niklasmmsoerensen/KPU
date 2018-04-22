@@ -1,0 +1,63 @@
+import "C:\Program Files\Microsoft Visual Studio 8\VC\PlatformSDK\include\prsht.idl";
+import "C:\Program Files\Microsoft Visual Studio 8\VC\PlatformSDK\include\mshtml.idl";
+import "c:\program files\microsoft visual studio 8\vc\platformsdk\include\dimm.idl";
+import "C:\Program Files\Microsoft Visual Studio 8\VC\PlatformSDK\include\mshtmhst.idl";
+import "c:\program files\microsoft visual studio 8\vc\platformsdk\include\docobj.idl";
+import "C:\Program Files\Microsoft Visual Studio 8\VC\PlatformSDK\include\exdisp.idl";
+import "C:\Program Files\Microsoft Visual Studio 8\VC\PlatformSDK\include\objsafe.idl";
+
+[
+	object,
+	uuid(C065E87F-AA6D-4674-917D-2C8EA5240977),
+	dual,
+	helpstring("IOrderCalculator Interface"),
+	pointer_default(unique)
+] 
+#line 14 "c:\\dokumenter\\kpu1\\losningsforslag\\kpu1-opg10\\pizvizcomserver\\pizvizserver\\ordercalculator.h"
+interface IOrderCalculator : IDispatch {
+#line 16 "c:\\dokumenter\\kpu1\\losningsforslag\\kpu1-opg10\\pizvizcomserver\\pizvizserver\\ordercalculator.h"
+	[id(1),helpstring("method CalcOrder")] HRESULT  CalcOrder([in] SAFEARRAY(short)* count, [in] SAFEARRAY(short)* pizzaNo, [out,retval] CY *total);
+};
+
+[
+	object,
+	uuid(DA36D0CF-E5A2-45E9-85B1-A86FD49DAB57),
+	dual,
+	helpstring("IPizzaManager Interface"),
+	pointer_default(unique)
+] 
+#line 14 "c:\\dokumenter\\kpu1\\losningsforslag\\kpu1-opg10\\pizvizcomserver\\pizvizserver\\pizzamanager.h"
+interface IPizzaManager : IDispatch {
+#line 16 "c:\\dokumenter\\kpu1\\losningsforslag\\kpu1-opg10\\pizvizcomserver\\pizvizserver\\pizzamanager.h"
+	[id(1),helpstring("method GetName")] HRESULT  GetName([in] SHORT pizzaNr, [out,retval] BSTR *pizzaName);
+};
+
+
+[ version(1.0), uuid(BB80764E-235E-4E1B-BFCD-EFE87D33FFB0), helpstring("PizVizServer 1.0 Type Library") ]
+library PizVizServer
+{
+	importlib("stdole2.tlb");
+	importlib("olepro32.dll");
+
+	[
+		version(1.0),
+		uuid(92604E05-4667-425D-BE7C-82F6F528B8B9),
+		helpstring("OrderCalculator Class")
+	] 
+#line 32 "c:\\dokumenter\\kpu1\\losningsforslag\\kpu1-opg10\\pizvizcomserver\\pizvizserver\\ordercalculator.h"
+	coclass COrderCalculator {
+		interface IOrderCalculator;
+	};
+
+	[
+		version(1.0),
+		uuid(8D4E072C-C732-41A7-AC12-E09C8C2053F4),
+		helpstring("PizzaManager Class")
+	] 
+#line 32 "c:\\dokumenter\\kpu1\\losningsforslag\\kpu1-opg10\\pizvizcomserver\\pizvizserver\\pizzamanager.h"
+	coclass CPizzaManager {
+		interface IPizzaManager;
+	};
+
+}
+

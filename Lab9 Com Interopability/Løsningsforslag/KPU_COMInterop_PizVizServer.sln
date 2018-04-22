@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72417C74-E084-452B-8F6D-1D339AC7B24B}"
+	ProjectSection(SolutionItems) = preProject
+		KPU_Lab_PInvokeAndCOMInterop.pdf = KPU_Lab_PInvokeAndCOMInterop.pdf
+		Vejledning til løsningsforslaget.pdf = Vejledning til løsningsforslaget.pdf
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizVizServer", "PizVizServer\PizVizServer.vcxproj", "{FB36D18E-5A51-46DF-B6E5-0D0FA12F20D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizVizCppClient", "PizVizCppClient\PizVizCppClient.vcxproj", "{3E19D5A1-433A-48DE-9AF2-DA2752B2B84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB36D18E-5A51-46DF-B6E5-0D0FA12F20D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB36D18E-5A51-46DF-B6E5-0D0FA12F20D7}.Debug|Win32.Build.0 = Debug|Win32
+		{FB36D18E-5A51-46DF-B6E5-0D0FA12F20D7}.Release|Win32.ActiveCfg = Release|Win32
+		{FB36D18E-5A51-46DF-B6E5-0D0FA12F20D7}.Release|Win32.Build.0 = Release|Win32
+		{3E19D5A1-433A-48DE-9AF2-DA2752B2B84D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E19D5A1-433A-48DE-9AF2-DA2752B2B84D}.Debug|Win32.Build.0 = Debug|Win32
+		{3E19D5A1-433A-48DE-9AF2-DA2752B2B84D}.Release|Win32.ActiveCfg = Release|Win32
+		{3E19D5A1-433A-48DE-9AF2-DA2752B2B84D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9089520-5C70-49EF-B574-CDC010E1FA02}"
+	ProjectSection(SolutionItems) = preProject
+		Comments.htm = Comments.htm
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizVizClient", "PizVizClient\PizVizClient.vcxproj", "{BFCE786E-3D17-4D21-BBE8-AA1CBFFAAF90}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PizVizServer", "PizVizServer\PizVizServer.vcxproj", "{33167B28-9B97-4651-836F-D4F0FA8560D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCE786E-3D17-4D21-BBE8-AA1CBFFAAF90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFCE786E-3D17-4D21-BBE8-AA1CBFFAAF90}.Debug|Win32.Build.0 = Debug|Win32
+		{BFCE786E-3D17-4D21-BBE8-AA1CBFFAAF90}.Release|Win32.ActiveCfg = Release|Win32
+		{BFCE786E-3D17-4D21-BBE8-AA1CBFFAAF90}.Release|Win32.Build.0 = Release|Win32
+		{33167B28-9B97-4651-836F-D4F0FA8560D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33167B28-9B97-4651-836F-D4F0FA8560D0}.Debug|Win32.Build.0 = Debug|Win32
+		{33167B28-9B97-4651-836F-D4F0FA8560D0}.Release|Win32.ActiveCfg = Release|Win32
+		{33167B28-9B97-4651-836F-D4F0FA8560D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F580B2-0F0E-44A9-B119-15623550EB85}
+	EndGlobalSection
+EndGlobal

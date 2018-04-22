@@ -1,0 +1,81 @@
+<html>
+	<head>
+		<title>KPU1 Løsningsforslag til opgave 05 </title>
+		<meta http-equiv="Content-Language" content="da">
+		<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+		<meta name="ProgId" content="FrontPage.Editor.Document">
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	</head>
+	<body>
+		<h1><font face="Arial">KPU 1 PizViz COM Server</font></h1>
+		<h2><font face="Arial"><b>Formål:</b></font></h2>
+		<blockquote>
+			<P><font face="Arial"><FONT face="Arial"></FONT></font></P>
+			<P><FONT face="Arial">Denne COM server stammer fra en tidligere KPU1 opgave, og den 
+					bruges her som et eksempel på kodning af .Net applikation op mod en 
+					eksisterende COM-server.</FONT></P>
+			<P><FONT face="Arial"></FONT>&nbsp;</P>
+		</blockquote>
+		<p><font face="Courier New"></font></p>
+		<font face="Arial">
+			<P><B><SPAN lang="DA" style="FONT-SIZE: 14pt; FONT-FAMILY: Arial">Funktionalitet:</SPAN></B></P>
+			<P><FONT face="Arial"> DLL-filen indeholder 2 COM-servere.</FONT></P>
+			<P><FONT face="Arial">En COM serveren indeholder et array af navne på pizzaer, således 
+					at hvis man f.eks. spøger om navnet på pizza nr. 1 returneres navnet 
+					"Margarita" i en BStr, og navnet på nr. 2 er "Pepperoni" osv.</FONT></P>
+			<P><FONT face="Arial">Interface:</FONT></P>
+			<P><FONT face="Arial">&nbsp;&nbsp;&nbsp; </FONT><FONT face="Courier New">HRESULT 
+					GetName([in] SHORT pizzaNr, [out, retval] BStr* pizzaName);</FONT>
+		</font>
+		<P>
+			<BLOCKQUOTE dir="ltr" style="MARGIN-RIGHT: 0px">
+				<p>&nbsp;</p>
+			</BLOCKQUOTE>
+		<p><span lang="DA" style="FONT-SIZE: 14pt; FONT-FAMILY: Arial"><FONT size="3">Den anden 
+					COM-server&nbsp;</FONT></span><FONT face="Arial">indeholder en 
+				orderCalculator klasse som har en funktion med navnet CalcOrder som kan beregne 
+				den samlede pris på en pizza bestilling.<BR>
+				Som inddata skal COM-serveren have 2 SAFEARRAY's hvor der angives henholdsvis 
+				styk antal og pizzaNr.</FONT></p>
+		<TABLE class="ms-simple1-main" id="Table2" height="150" cellSpacing="0" cellPadding="0"
+			width="308" border="0"> <!-- MSTableType="layout" --> <!-- fpstyle: 1,011111100 -->
+			<TR>
+				<TD class="ms-simple1-tl" vAlign="middle" align="center" width="154" height="20"><FONT face="Arial">Count</FONT></TD>
+				<TD class="ms-simple1-top" vAlign="middle" align="center" width="154" height="20"><FONT face="Arial">PizzaNo</FONT></TD>
+			</TR>
+			<TR>
+				<TD class="ms-simple1-left" vAlign="middle" align="center" width="154" height="20"><FONT face="Arial">2</FONT></TD>
+				<TD class="ms-simple1-even" vAlign="middle" align="center" width="154" height="20"><FONT face="Arial">1</FONT></TD>
+			</TR>
+			<TR>
+				<TD class="ms-simple1-left" vAlign="middle" align="center" width="154" height="19"><FONT face="Arial">3</FONT></TD>
+				<TD class="ms-simple1-even" vAlign="middle" align="center" width="154" height="19"><FONT face="Arial">2</FONT></TD>
+			</TR>
+			<TR>
+				<TD class="ms-simple1-left" vAlign="middle" align="center" width="154" height="19"><FONT face="Arial">1</FONT></TD>
+				<TD class="ms-simple1-even" vAlign="middle" align="center" width="154" height="19"><FONT face="Arial">7</FONT></TD>
+			</TR>
+			<TR>
+				<TD class="ms-simple1-left" vAlign="middle" align="center" width="154" height="19"><FONT face="Arial">1</FONT></TD>
+				<TD class="ms-simple1-even" vAlign="middle" align="center" width="154" height="19"><FONT face="Arial">21</FONT></TD>
+			</TR>
+		</TABLE>
+		<p><FONT face="Arial">som betyder 2 styk af nr. 1 (Margarita) og 3 styk af nummer 2 
+				(Pepperoni) osv.
+				<BR>
+				Som uddata har COM-serveren en Currency hvor den samlede pris returneres 
+				(COM-serveren slår prisen op i en intern pristabel).</FONT></p>
+		<P><FONT face="Arial">IDL'en kunne f.eks. se ud som følgende:</FONT></P>
+		<P><FONT face="Arial">[id(1), helpstring("method CalcOrder")] HRESULT CalcOrder([in, 
+				satype(short)] SAFEARRAY ** count, [in, satype(short)] SAFEARRAY ** pizzaNo, 
+				[out, retval] CY * total);</FONT></P>
+		<P>
+			<BLOCKQUOTE dir="ltr" style="MARGIN-RIGHT: 0px">
+				<p>&nbsp;
+				</p>
+			</BLOCKQUOTE>
+		<P><B><SPAN lang="DA" style="FONT-SIZE: 14pt; FONT-FAMILY: Arial"></SPAN></B></P>
+		<P><FONT face="Arial"><FONT face="Arial">PizVizClient&nbsp;er en COM-klient i C++ som 
+					tester PizViz-serveren.</FONT></FONT></P>
+	</body>
+</html>

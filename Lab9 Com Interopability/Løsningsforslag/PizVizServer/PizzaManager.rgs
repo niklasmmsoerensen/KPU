@@ -1,0 +1,26 @@
+HKCR
+{
+	AU.ASE.KPU.PizzaManager.1 = s 'PizzaManager Class'
+	{
+		CLSID = s '{BADBD64C-88C5-40AE-98C4-CE7B5C385BF7}'
+	}
+	AU.ASE.KPU.PizzaManager = s 'PizzaManager Class'
+	{		
+		CurVer = s 'AU.ASE.KPU.PizzaManager.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {BADBD64C-88C5-40AE-98C4-CE7B5C385BF7} = s 'PizzaManager Class'
+		{
+			ProgID = s 'AU.ASE.KPU.PizzaManager.1'
+			VersionIndependentProgID = s 'AU.ASE.KPU.PizzaManager'
+			ForceRemove Programmable
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			TypeLib = s '{2EFC1774-680C-4DCB-83DA-A58C5BF80766}'
+			Version = s '1.0'
+		}
+	}
+}

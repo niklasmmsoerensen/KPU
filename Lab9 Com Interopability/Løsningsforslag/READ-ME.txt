@@ -1,0 +1,5 @@
+Vær opmærksom på at der er 3 solutions i denne mappe (3 filer af typen *.sln).
+
+KPU_COMInterop_lab_1and3.sln skal åbnes af en Visual studio med normale brugerrettigheder.
+
+KPU_COMInterop_Lab2.sln og KPU_COMInterop_PizVizServer.sln skal åbnes af en Visual studio med administrator rettigheder.

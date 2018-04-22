@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		'%APPID%' = s 'PizVizServer'
+		'PizVizServer.DLL'
+		{
+			val AppID = s '%APPID%'
+		}
+	}
+}
